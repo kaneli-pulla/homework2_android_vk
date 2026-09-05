@@ -2,7 +2,7 @@
 
 An Android application that loads trending GIFs from the GIPHY API and displays them in an infinite Pinterest-style feed.
 
-The project was created as part of **Homework #2 — Loading Data from an API and Handling UI States**.
+The project was created as **Homework #2 — Loading Data from an API and Handling UI States**.
 
 ## Features
 
